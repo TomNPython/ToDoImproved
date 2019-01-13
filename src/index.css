@@ -1,0 +1,9 @@
+body {
+    padding: 50px;
+    background-color: #1A2930;
+    font-family: sans-serif;
+  }
+  #container {
+    display: flex;
+    justify-content: center;
+  }
